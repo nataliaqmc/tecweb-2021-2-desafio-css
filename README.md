@@ -2,7 +2,7 @@
 
 Grupo:
 
-- Carolina Hirschheimmer
+- Carolina Hirschheimer
 - Natália Queiroz Menezes Carreras
 - Link do GitHub Pages: https://nataliaqmc.github.io/tecweb-2021-2-desafio-css/
 
